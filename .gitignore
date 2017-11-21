@@ -1,0 +1,6 @@
+# do not track .bak files
+# .bak
+# do not track mp3 files
+# do not track php
+# do track index.php
+# do not add file with a,e,i,o,u as statrting char
