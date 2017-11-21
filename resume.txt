@@ -1,2 +1,3 @@
 name = veera kumar reddy
-Email:-veerakumarmail@gmail.com
+Email = veerakumarmail@gmail.com
+phone num = 9892022141
